@@ -25,7 +25,6 @@
 		"chalk": "^4.1.2",
 		"cheerio": "^1.0.0-rc.10",
 		"colors": "^1.4.0",
-		"desuni": "^11.0.5",
 		"discord-chatbot": "^2.1.0",
 		"eval": "^0.1.8",
 		"extract-zip": "^2.0.1",
