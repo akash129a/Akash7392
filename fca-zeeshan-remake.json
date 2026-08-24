@@ -103,17 +103,4 @@
         "value": "101721078%3BT%3A29792829",
         "domain": "facebook.com",
         "path": "/",
-        "hostOnly": false,
-        "creation": "2026-08-24T11:09:32.962Z",
-        "lastAccessed": "2026-08-24T11:09:32.962Z"
-    },
-    {
-        "key": "wl_cbv",
-        "value": "v2%3Bclient_version%3A3258%3Btimestamp%3A1787569769",
-        "domain": "facebook.com",
-        "path": "/",
-        "hostOnly": false,
-        "creation": "2026-08-24T11:09:32.962Z",
-        "lastAccessed": "2026-08-24T11:09:32.962Z"
-    }
-]
+
